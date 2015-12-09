@@ -8,6 +8,7 @@ namespace JNinject.Core
 {
     public interface IJContainer
     {
+
         T Resolve<T>();
     }
 }
