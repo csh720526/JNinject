@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JNinject.Core", "JNinject.Core\JNinject.Core.csproj", "{9CDD0676-B193-47C7-953D-3506A07434E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JNinject.Core.UnitTest", "JNinject.Core.UnitTest\JNinject.Core.UnitTest.csproj", "{9EF3D4A2-D391-4063-B052-1DE5981A8199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CDD0676-B193-47C7-953D-3506A07434E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDD0676-B193-47C7-953D-3506A07434E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDD0676-B193-47C7-953D-3506A07434E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDD0676-B193-47C7-953D-3506A07434E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF3D4A2-D391-4063-B052-1DE5981A8199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF3D4A2-D391-4063-B052-1DE5981A8199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF3D4A2-D391-4063-B052-1DE5981A8199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF3D4A2-D391-4063-B052-1DE5981A8199}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
